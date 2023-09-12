@@ -1,0 +1,38 @@
+.clothes-top-items img {
+  width: 60px;
+  height: 50px;
+}
+
+.clothes-top-items {
+  padding: 2rem 5rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.clothes-top-items img {
+  display: flex;
+}
+
+.other-buttons {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.other-buttons img {
+  cursor: pointer;
+}
+
+.other-buttons img:hover {
+  color: rgb(242, 245, 91);
+}
+
+.clothes-top-items input {
+  border-radius: 1rem;
+  text-align: center;
+  outline: none;
+}
+
+.other-buttons img {
+  width: 40px;
+  height: 35px;
+}

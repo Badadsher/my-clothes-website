@@ -1,0 +1,26 @@
+body {
+}
+
+.clothes-top-menu p {
+  color: white;
+  font-family: var(--font-family);
+  font-size: 20px;
+  margin-top: 1.5rem;
+  padding: 0.5rem 10rem;
+  cursor: pointer;
+  border: solid 1px;
+  border-radius: 1rem;
+  border-color: hsl(253, 59%, 13%);
+  background: hsl(253, 59%, 13%);
+  font-weight: 500;
+}
+
+.clothes-top-menu p:hover {
+  color: rgb(242, 245, 91);
+}
+
+.clothes-top-menu {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}

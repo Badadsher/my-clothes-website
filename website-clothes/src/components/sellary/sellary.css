@@ -1,0 +1,7 @@
+.gradient_text {
+  font-family: var(--font-family);
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1rem;
+  margin-top: 3rem;
+}
