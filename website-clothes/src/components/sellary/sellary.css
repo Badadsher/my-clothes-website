@@ -1,7 +1,15 @@
-.gradient_text {
+.gradient-txt {
   font-family: var(--font-family);
   display: flex;
   justify-content: center;
   margin-bottom: 1rem;
   margin-top: 3rem;
+}
+
+.clothes-sellary h1 {
+  color: rgb(89, 89, 89);
+}
+
+.clothes-sellary {
+  border-bottom: 2px solid #d9d9d9;
 }

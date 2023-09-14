@@ -7,6 +7,6 @@
     rgba(10, 2, 17, 1) 100%
   );
   --text-color: #fff;
-  --gradient-text: linear-gradient(to bottom right, #cfcfcf 0%, #cf0404 100%);
-  --color-bg: #0c081b;
+  --gradient-text: linear-gradient(to right, #121fcf 0%, #cf1512 100%);
+  --color-bg: rgb(255, 255, 255);
 }

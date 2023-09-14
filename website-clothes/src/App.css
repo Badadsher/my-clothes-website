@@ -15,7 +15,7 @@ a {
 }
 
 .gradient_background {
-  background: var(--gradient-background);
+  background: rgb(255, 255, 255);
 }
 
 .gradient_text {

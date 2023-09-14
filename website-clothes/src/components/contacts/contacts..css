@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  top: 0;
+  font-family: var(--font-family);
+}
+.Contacts {
+  background: rgb(28, 28, 28);
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  align-items: center;
+
+  justify-items: center;
+}
+
+.left {
+  display: flex;
+  margin: 1rem;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.left p:hover {
+  cursor: pointer;
+  color: rgb(255, 94, 0);
+}
+
+.center {
+  display: flex;
+  margin: 1rem;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+.center p:hover {
+  cursor: pointer;
+  color: rgb(255, 94, 0);
+}
+
+.end h1:hover {
+  cursor: pointer;
+}
+
+.end {
+  display: flex;
+  margin: 1rem;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.Contacts p {
+  color: rgb(171, 171, 171);
+}
+
+.Contacts h1 {
+  font-size: 20px;
+  color: white;
+}
